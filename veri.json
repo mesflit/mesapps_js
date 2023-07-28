@@ -1,18 +1,18 @@
 [
   {
-    "appName": "Uygulama Adı 1",
+    "appName": "Deneme",
     "appDescription": "Uygulama 1 Açıklama...",
     "downloadLink": "https://example.com/app1",
     "appIcon": "https://example.com/icons/app1.png"
   },
   {
-    "appName": "Uygulama Adı 2",
+    "appName": "oyun",
     "appDescription": "Uygulama 2 Açıklama...",
     "downloadLink": "https://example.com/app2",
     "appIcon": "https://example.com/icons/app2.png"
   },
   {
-    "appName": "Uygulama Adı 3",
+    "appName": "Saat",
     "appDescription": "Uygulama 3 Açıklama...",
     "downloadLink": "https://example.com/app3",
     "appIcon": "https://example.com/icons/app3.png"
